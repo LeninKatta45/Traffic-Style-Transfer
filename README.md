@@ -50,8 +50,8 @@ You can replace it with your own unpaired dataset.
 ## ⚙️ Installation
 
 # Clone this repository
-git clone https://github.com/LeninKatta45/traffic-style-transfer.git
-cd traffic-style-transfer
+- git clone https://github.com/LeninKatta45/traffic-style-transfer.git
+- cd traffic-style-transfer
 
 # Create a virtual environment (recommended)
 python -m venv venv
