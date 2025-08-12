@@ -2,7 +2,6 @@
 
 This project implements a **CycleGAN** model to transform **night-time traffic images** into **day-time traffic images** and vice versa, without the need for paired datasets. The model learns style mappings between two domains (Night ↔ Day) while preserving content.
 
-![CycleGAN Concept](https://raw.githubusercontent.com/junyanz/CycleGAN/master/imgs/horse2zebra.gif)
 
 ---
 
@@ -51,7 +50,7 @@ You can replace it with your own unpaired dataset.
 ## ⚙️ Installation
 
 # Clone this repository
-git clone https://github.com/yourusername/traffic-style-transfer.git
+git clone https://github.com/LeninKatta45/traffic-style-transfer.git
 cd traffic-style-transfer
 
 # Create a virtual environment (recommended)
